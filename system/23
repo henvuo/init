@@ -1,0 +1,2 @@
+#For graphical connection, input your user data (Username and password) on the login screen
+#For ssh connection, use ssh [username]@hostadress

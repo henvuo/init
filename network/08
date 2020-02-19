@@ -1,0 +1,4 @@
+aws
+
+There are multiple services online that find this for you.
+Alternatively in osx terminal use the command whois. #whois slash16.org | grep "Name Server"
